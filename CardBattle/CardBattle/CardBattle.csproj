@@ -45,9 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Card.cs" />
-    <Compile Include="Models\Suit.cs" />
-    <Compile Include="Models\Values.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="Value.cs" />
+    <Compile Include="ColorEnum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
